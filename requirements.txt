@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+vaderSentiment
+youtube-comment-downloader
+scikit-learn
+joblib
